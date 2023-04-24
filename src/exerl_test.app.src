@@ -4,7 +4,9 @@
     {registered, []},
     {applications, [
         kernel,
-        stdlib
+        stdlib,
+        tzdata,
+        easter
     ]},
     {env, []},
     {modules, []},
